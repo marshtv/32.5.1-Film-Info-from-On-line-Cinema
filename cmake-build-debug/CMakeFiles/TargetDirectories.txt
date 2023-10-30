@@ -1,0 +1,5 @@
+F:/__C++/Skillbox/32 JSON/32.5.1 Film Info from On-line Cinema/cmake-build-debug/CMakeFiles/32_5_1_Film_Info_from_On_line_Cinema.dir
+F:/__C++/Skillbox/32 JSON/32.5.1 Film Info from On-line Cinema/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/__C++/Skillbox/32 JSON/32.5.1 Film Info from On-line Cinema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/__C++/Skillbox/32 JSON/32.5.1 Film Info from On-line Cinema/cmake-build-debug/nlohmann_json/CMakeFiles/edit_cache.dir
+F:/__C++/Skillbox/32 JSON/32.5.1 Film Info from On-line Cinema/cmake-build-debug/nlohmann_json/CMakeFiles/rebuild_cache.dir
